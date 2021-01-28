@@ -1,0 +1,15 @@
+folha = '*'
+espaco = ' '
+print(espaco * 10, folha)
+print(espaco * 9, folha * 3)
+print(espaco * 8, folha * 5)
+print(espaco * 7, folha * 7)
+print(espaco * 6, folha * 9)
+print(espaco * 5, folha * 11)
+print(espaco * 4, folha * 13)
+print(espaco * 3, folha * 15)
+print(espaco * 2, folha * 17)
+print(espaco * 1, folha * 19)
+print(espaco * 9, folha * 3)
+print(espaco * 9, folha * 3)
+print(espaco * 9, folha * 3)

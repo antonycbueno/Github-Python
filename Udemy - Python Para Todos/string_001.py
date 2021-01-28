@@ -1,0 +1,8 @@
+texto1 = str(input('Digite a primeira palavra: '))
+texto2 = str(input('Digite a segunda palavra: '))
+print(texto1)
+print(texto2)
+print(f'Quantidade de caracteres de "{texto1}": {len(texto1)}')
+print(f'Quantidade de caracteres de "{texto2}": {len(texto2)}')
+print('As string possuem a mesma quantidade de caracteres?', len(texto1) == len(texto2))
+print('As strings são iguais?', texto1 == texto2)
